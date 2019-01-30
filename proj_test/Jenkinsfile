@@ -1,0 +1,30 @@
+#!groovy
+
+env.JAR_VERSION='1.0.${BUILD_NUMBER}-SNAPSHOT'
+
+node("build") {
+  stage("checkout") {
+    checkout scm
+  }
+
+  container("scala") {
+    dir("event-translation/event_proc/") {
+      stage("build deps") {
+        sh "sbt assemblyPackageDependency"
+      }
+      stage("build core") {
+        sh "sbt assembly"
+      }
+    }
+  }
+}
+
+// node ("identity_platform") {
+//   container("terraform") {
+//     stage ("deploy") {
+//       dir("event-translation/event_proc/terraform") {
+//         sh "terraform plan -var-file=terraform.tfenv -var spark_jars='[\"../target/scala-2.11/load-data-assembly-" + env.JAR_VERSION + "-deps.jar\",\"../target/scala-2.11/load-data-assembly-" + env.JAR_VERSION + ".jar\"]'"
+//       }
+//     }
+//   }
+// }
