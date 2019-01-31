@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
       <module fileurl="file://$PROJECT_DIR$/proj_test/proj_test.iml" filepath="$PROJECT_DIR$/proj_test/proj_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj_test1/proj_test1.iml" filepath="$PROJECT_DIR$/proj_test1/proj_test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proj_test2/proj_test2.iml" filepath="$PROJECT_DIR$/proj_test2/proj_test2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/repo_test.iml" filepath="$PROJECT_DIR$/.idea/repo_test.iml" />
     </modules>
   </component>
