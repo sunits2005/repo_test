@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/ss372n/workspace/repo_test/proj_test/target/scala-2.12/proj_test_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ss372n/workspace/repo_test/proj_test/target/scala-2.12/classes/HelloWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ss372n/workspace/repo_test/proj_test/target/scala-2.12/classes/HelloWorld$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

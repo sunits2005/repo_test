@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/ss372n/workspace/repo_test/proj_test2/src/main/scala/HelloWorld.scala:1:20: Util is already defined as object Util[0m
+[0m[[0m[31merror[0m] [0m[0mpackage main.scala.Util[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

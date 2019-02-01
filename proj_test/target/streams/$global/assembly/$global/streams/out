@@ -5,7 +5,7 @@
 [0m[[0m[0minfo[0m] [0m[0mMerging files...[0m
 [0m[[0m[33mwarn[0m] [0m[0mMerging 'META-INF/MANIFEST.MF' with strategy 'discard'[0m
 [0m[[0m[33mwarn[0m] [0m[0mStrategy 'discard' was applied to a file[0m
-[0m[[0m[0minfo[0m] [0m[0mSHA-1: b2d3c15dbb439c46f38416909b075bcb1fc1205d[0m
+[0m[[0m[0minfo[0m] [0m[0mSHA-1: 35a856b570ee23e8990c745d09e0d73a833ab5b9[0m
 [0m[[0m[0minfo[0m] [0m[0mPackaging /Users/ss372n/workspace/repo_test/proj_test/target/scala-2.12/proj_test-assembly-0.1.0-SNAPSHOT.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	HelloWorld$.class[0m
@@ -14,6 +14,8 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/ss372n/workspace/repo_test/proj_test/target/streams/$global/assemblyOption/$global/streams/assembly/5bd0cc59c8ef620ce229652a4ea61b655bd38370_dir/HelloWorld.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	library.properties[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/ss372n/workspace/repo_test/proj_test/target/streams/$global/assemblyOption/$global/streams/assembly/6c76a14c38bf02e8cbce579ff6ff4611a2b196ca_6bd975dd5ca2a50b94413b708389b892ae423181_da39a3ee5e6b4b0d3255bfef95601890afd80709/library.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	main/scala/Util.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ss372n/workspace/repo_test/proj_test/target/streams/$global/assemblyOption/$global/streams/assembly/61032fa8910971c51edb1bac25d051afb20eedc6_dir/main/scala/Util.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	rootdoc.txt[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/ss372n/workspace/repo_test/proj_test/target/streams/$global/assemblyOption/$global/streams/assembly/sbtMergeTarget-0777db87d0940029443b3641cb56d2669377ef1a.tmp[0m
 [0m[[0m[0mdebug[0m] [0m[0m	scala-parser-combinators.properties[0m
